@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WILLIAM QUINTERO
 - 👀 I’m interested in data modeling, database development, and Oracle database administration
-- 🌱 I’m currently learning Snowflake
+- 🌱 I’m currently learning [Snowflake](https://github.com/williamq-2050/my-learning-journey#snowflake)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/williamquintero/)
 - ⚡ I’m looking to collaborate on data models as code
 
